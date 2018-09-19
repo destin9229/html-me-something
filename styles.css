@@ -1,0 +1,56 @@
+body{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    font-family: "Times New Roman";
+	font-size: 80%;
+}
+
+
+h1{
+    text-align:center;
+    font-size: 30px;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+h5{
+    font-size: 1.2em;
+}
+
+h6{
+    font-size: 1.2em;
+}
+
+h4, h5, h6, p{
+    text-align:center;
+}
+
+nav{
+    text-align:center;
+    font-size: 13px;
+}
+
+div{
+    margin: 25px 50px 75px 100px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+ul, p{
+    padding: 0;
+}
+
+footer{
+        text-align:center;
+        font-size: 1em;
+}
